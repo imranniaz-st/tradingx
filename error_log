@@ -1,0 +1,20 @@
+[01-Aug-2025 13:54:09 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
+[01-Aug-2025 13:54:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
+[01-Aug-2025 13:59:54 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
+[01-Aug-2025 13:59:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
+[01-Aug-2025 14:05:48 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
+[01-Aug-2025 14:05:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
+[01-Aug-2025 14:06:03 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
+[01-Aug-2025 14:06:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/artisan on line 18
